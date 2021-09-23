@@ -1,0 +1,3 @@
+Exercício: Criar um repositório próprio, dentro do repositório criar uma branch com o nome que vocês quiserem, e subir lá dentro prints da criação do repositório, prints da criação da branch, e um txt falando a opinião de vocês sobre a MasterClass de hoje.
+
+E mandar no canal do teams dentro das atividades individuais do dia 23/09 um txt com o link do repo de vocês e o nome de vocês.
