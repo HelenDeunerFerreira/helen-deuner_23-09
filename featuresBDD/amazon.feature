@@ -15,7 +15,7 @@
             Então deverá validar se no título do produto contém a "<palavra>"
 
             Exemplos:
-            | produtos  | sigla | palavra  | contém |
-            | livro     | ISTQB | Syllabus | sim    |
-            | livro     | ABC   | Alfabeto | não    |
-            | alimentos | NCH   | Sachê    | sim    |
+            | produtos  | sigla | palavra  |
+            | livro     | ISTQB | Syllabus |
+            | livro     | ABC   | Alfabeto |
+            | alimentos | NCH   | Sachê    |
