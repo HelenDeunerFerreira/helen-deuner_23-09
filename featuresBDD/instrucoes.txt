@@ -1,0 +1,33 @@
+Exercício individual do módulo sobre BDD e Gherkin:
+Todas as features devem seguir os padrões apresentados no material e na master class, deverão ser enviadas a uma brach da tarefa em seu repositório pessoal, as correções serão encaminhadas no privado de cada bolsista e este deve fazer o refatoramento de acordo com as dicas do evangelista.
+Caso veja que não conseguirá entregar todas as features a tempo, suba ao repositório as prontas e avise o evangelista responsável.
+
+Escreva uma feature chamada youtube.feature que:
+Acessa a página do youtube;
+Pesquisa por "Compasso UOL"
+Entra no canal da Compasso UOL
+Acessa a aba 'sobre'
+Valida se o número total de visualizações é maior que 30k
+
+Escreva uma feature chamada amazon.feature que:
+Acessa a página da amazon.com.br
+Acessa a aba de livros
+Pesquisa por ISTQB
+Valida se o nome do primeiro livro da lista de resultados contem a palavra "Syllabus"
+
+Escreva uma feature chamada vagas_compasso.feature que:
+Inicia na página da CompassoUOL
+Acessa o 'Confira as nossas vagas' na aba 'Cultura'
+Acessa o link para a gupy de Transformação de negócios e Desenvolvimento Ágil
+Validar se a URL foi redirecionada
+Validar se existem vagas para automação de testes
+
+Dicas:
+Reveja a apresentação durante a construção das features;
+Garanta que o padrão e as boas práticas estão sendo seguidas;
+Refatore sua feature sempre que encontrar equívocos no padrão ou na caligrafia;
+Dê nomes aos cenários que descrevam o comportamento testado;
+Nunca utilize primeira pessoa;
+Dado (pré-requisito)/ Quando (ações)/ Então (validações sobre as ações);
+Observe se é possível criar diferentes cenários somente mudando os exemplos;
+Caso esteja com dificuldades, recorra a um evangelista ou a um colega;
